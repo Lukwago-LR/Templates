@@ -7,7 +7,7 @@ export default defineConfig({
     rollupOptions: {
       input: {
         main: 'index.html',
-        sub1: 'index_Materialize.html',
+        sub1: 'index_Bootstrap.html',
         sub2: 'index_MaterializeCopy.html'
       }
     }
