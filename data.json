@@ -1,0 +1,43 @@
+{
+    "user" : {
+        "fullName": "Lukwago Robert Kaggwa",
+        "photo" : "id.png"
+    },
+    "city" : {
+        "name" : "Kassanda",
+        "photo" : "kassanda.png",
+        "description" : "Kassanda is a subcounty in Uganda. It has 9 parishes and 129 villages. Kassanda is in Mubende district. This is about 110 kilometres (68 mi) west of Kampala, the capital and largest city in Uganda"
+    },
+    "foreignLanguage" : {
+        "language" : "German",
+        "phrases" : [{
+            "englishPhrase" : "Godliness with contentment is great gain",
+            "foreignLanguage" : "Frömmigkeit mit Zufriedenheit ist ein großer Gewinn"
+        },
+        {
+            "englishPhrase" : "For be of good joy, I have overcome the World.",
+            "foreignLanguage" : "Denn sei froh, ich habe die Welt überwunden."
+        },
+        {
+            "englishPhrase" : "I am the truth, way, and life.",
+            "foreignLanguage" : "Ich bin die Wahrheit, der Weg und das Leben."
+        }]
+    },
+    "favouriteSubjects" : [
+        {
+            "name" : "Computer Science",
+            "description" : "The study of computers and computing, including their theoretical and algorithmic foundations, hardware and software, and their uses for processing information.",
+            "photo":"computerScience.png"
+        },
+        {
+            "name" : "Informatics",
+            "description" : "formatics is the study of computational systems.",
+            "photo":"informatics.png"
+        },
+        {
+            "name" : "Statistics",
+            "description" : "Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data",
+            "photo":"statistics.png"
+        }
+    ]
+}
